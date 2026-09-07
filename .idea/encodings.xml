@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kcts-ai-backend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kcts-ai-backend/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-ai-agent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-ai-agent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-ai-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-ai-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-ai-flow/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-ai-flow/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-ai-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-ai-search/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/common-ai/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/common-ai/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/common-cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/common-cache/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/common-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/common-es/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/common-es/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/common-minio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/common-minio/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/common-mq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/common-mq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/common-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/common-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/common-yfy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/common-yfy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-mail-srv/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-mail-srv/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-monitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-monitor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-mss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-mss/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-uam/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts-ai-dev-support/kczf-uam/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/ruoyi-activiti/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/ruoyi-activiti/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/ruoyi-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/ruoyi-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/ruoyi-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/ruoyi-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/ruoyi-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/ruoyi-framework/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/ruoyi-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/ruoyi-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/ruoyi-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/ruoyi-quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/ruoyi-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/ruoyi-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/ruoyi-workflow/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/ruoyi-workflow/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kcts/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

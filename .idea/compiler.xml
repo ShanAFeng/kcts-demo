@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ruoyi-system" />
+        <module name="kczf-mail-srv" />
+        <module name="common-minio" />
+        <module name="kcts-ai-backend" />
+        <module name="ruoyi-generator" />
+        <module name="kczf-mss" />
+        <module name="ruoyi-framework" />
+        <module name="kczf-uam" />
+        <module name="ruoyi-workflow" />
+        <module name="ruoyi-common" />
+        <module name="kczf-ai-agent" />
+        <module name="ruoyi-admin" />
+        <module name="common-cache" />
+        <module name="common-security" />
+        <module name="common-yfy" />
+        <module name="common-ai" />
+        <module name="ruoyi-activiti" />
+        <module name="common-mq" />
+        <module name="kczf-monitor" />
+        <module name="kczf-ai-search" />
+        <module name="kczf-ai-api" />
+        <module name="kczf-ai-flow" />
+        <module name="ruoyi-quartz" />
+        <module name="common-core" />
+        <module name="common-es" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ruoyi" options="-parameters -parameters" />
+      <module name="ruoyi-activiti" options="-parameters -parameters" />
+      <module name="ruoyi-admin" options="-parameters -parameters" />
+      <module name="ruoyi-common" options="-parameters -parameters" />
+      <module name="ruoyi-framework" options="-parameters -parameters" />
+      <module name="ruoyi-generator" options="-parameters -parameters" />
+      <module name="ruoyi-quartz" options="-parameters -parameters" />
+      <module name="ruoyi-system" options="-parameters -parameters" />
+      <module name="ruoyi-workflow" options="-parameters -parameters" />
+    </option>
+  </component>
+</project>

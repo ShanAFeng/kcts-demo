@@ -1,0 +1,111 @@
+2026-09-07 14:01:54.916 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2026-09-07 14:01:54.929 [main] INFO  com.shtel.kczf.mail.MailReceiverApp - Starting MailReceiverApp using Java 17.0.10 on DESKTOP-GL3RGKM with PID 28804 (C:\Users\Administrator\Desktop\kcts\kcts-ai-dev-support\kczf-mail-srv\target\classes started by Administrator in C:\Users\Administrator\Desktop\kcts)
+2026-09-07 14:01:54.930 [main] INFO  com.shtel.kczf.mail.MailReceiverApp - The following 1 profile is active: "dev"
+2026-09-07 14:01:55.667 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.shtel.kczf.mail]' package. Please check your configuration.
+2026-09-07 14:01:55.811 [main] INFO  c.u.j.c.EnableEncryptablePropertiesBeanFactoryPostProcessor - Post-processing PropertySource instances
+2026-09-07 14:01:55.813 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2026-09-07 14:01:55.813 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Skipping PropertySource servletConfigInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2026-09-07 14:01:55.813 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Skipping PropertySource servletContextInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2026-09-07 14:01:55.814 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemProperties [org.springframework.core.env.PropertiesPropertySource] to EncryptableMapPropertySourceWrapper
+2026-09-07 14:01:55.814 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource systemEnvironment [org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource] to EncryptableSystemEnvironmentPropertySourceWrapper
+2026-09-07 14:01:55.814 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource random [org.springframework.boot.env.RandomValuePropertySource] to EncryptablePropertySourceWrapper
+2026-09-07 14:01:55.814 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application-dev.yml]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2026-09-07 14:01:55.815 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource Config resource 'class path resource [application.yml]' via location 'optional:classpath:/' [org.springframework.boot.env.OriginTrackedMapPropertySource] to EncryptableMapPropertySourceWrapper
+2026-09-07 14:01:56.034 [main] INFO  c.u.j.f.DefaultLazyPropertyFilter - Property Filter custom Bean not found with name 'encryptablePropertyFilter'. Initializing Default Property Filter
+2026-09-07 14:01:56.044 [main] INFO  c.u.j.r.DefaultLazyPropertyResolver - Property Resolver custom Bean not found with name 'encryptablePropertyResolver'. Initializing Default Property Resolver
+2026-09-07 14:01:56.046 [main] INFO  c.u.j.d.DefaultLazyPropertyDetector - Property Detector custom Bean not found with name 'encryptablePropertyDetector'. Initializing Default Property Detector
+2026-09-07 14:01:56.237 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 19096 (http)
+2026-09-07 14:01:56.238 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].
+2026-09-07 14:01:56.238 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2026-09-07 14:01:56.238 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2026-09-07 14:01:56.242 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]
+2026-09-07 14:01:56.255 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-19096"]
+2026-09-07 14:01:56.255 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2026-09-07 14:01:56.255 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.75]
+2026-09-07 14:01:56.382 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-09-07 14:01:56.382 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1401 ms
+2026-09-07 14:01:56.735 [main] INFO  c.u.j.encryptor.DefaultLazyEncryptor - Found Custom Encryptor Bean org.jasypt.encryption.pbe.PooledPBEStringEncryptor@61bb1e4d with name: jasyptStringEncryptor
+2026-09-07 14:01:57.369 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-19096"]
+2026-09-07 14:01:57.393 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 19096 (http) with context path ''
+2026-09-07 14:01:57.394 [main] INFO  c.u.j.c.RefreshScopeRefreshedEventListener - Refreshing cached encryptable property sources on ServletWebServerInitializedEvent
+2026-09-07 14:01:57.395 [main] INFO  c.u.j.c.CachingDelegateEncryptablePropertySource - Property Source systemProperties refreshed
+2026-09-07 14:01:57.395 [main] INFO  c.u.j.c.CachingDelegateEncryptablePropertySource - Property Source systemEnvironment refreshed
+2026-09-07 14:01:57.395 [main] INFO  c.u.j.c.CachingDelegateEncryptablePropertySource - Property Source random refreshed
+2026-09-07 14:01:57.395 [main] INFO  c.u.j.c.CachingDelegateEncryptablePropertySource - Property Source Config resource 'class path resource [application-dev.yml]' via location 'optional:classpath:/' refreshed
+2026-09-07 14:01:57.395 [main] INFO  c.u.j.c.CachingDelegateEncryptablePropertySource - Property Source Config resource 'class path resource [application.yml]' via location 'optional:classpath:/' refreshed
+2026-09-07 14:01:57.396 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Skipping PropertySource configurationProperties [class org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource
+2026-09-07 14:01:57.396 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Skipping PropertySource servletConfigInitParams [class org.springframework.core.env.PropertySource$StubPropertySource
+2026-09-07 14:01:57.396 [main] INFO  c.u.j.EncryptablePropertySourceConverter - Converting PropertySource servletContextInitParams [org.springframework.web.context.support.ServletContextPropertySource] to EncryptableEnumerablePropertySourceWrapper
+2026-09-07 14:01:57.416 [main] INFO  com.shtel.kczf.mail.MailReceiverApp - Started MailReceiverApp in 3.286 seconds (JVM running for 4.223)
+2026-09-07 14:02:00.787 [scheduling-1] ERROR c.s.k.m.receiver.Pop3ReceiverService - POP3 receive error
+jakarta.mail.AuthenticationFailedException: µÇÂ¼Ê§°Ü£¡ÓÊÏäÕËºÅ/ÃÜÂë²»ÕýÈ·»òÃÜÂëÒÑÊ§Ð§»òµÇÂ¼IP±»ÏÞ£¬ÇëÁªÏµ¹óË¾ÓÊÏä¹ÜÀíÔ±£¡
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:193)
+	at jakarta.mail.Service.connect(Service.java:342)
+	at com.shtel.kczf.mail.receiver.Pop3SessionManager.connect(Pop3SessionManager.java:29)
+	at com.shtel.kczf.mail.receiver.Pop3ReceiverService.receive(Pop3ReceiverService.java:28)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+2026-09-07 14:03:01.077 [scheduling-1] ERROR c.s.k.m.receiver.Pop3ReceiverService - POP3 receive error
+jakarta.mail.AuthenticationFailedException: µÇÂ¼Ê§°Ü£¡ÓÊÏäÕËºÅ/ÃÜÂë²»ÕýÈ·»òÃÜÂëÒÑÊ§Ð§»òµÇÂ¼IP±»ÏÞ£¬ÇëÁªÏµ¹óË¾ÓÊÏä¹ÜÀíÔ±£¡
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:193)
+	at jakarta.mail.Service.connect(Service.java:342)
+	at com.shtel.kczf.mail.receiver.Pop3SessionManager.connect(Pop3SessionManager.java:29)
+	at com.shtel.kczf.mail.receiver.Pop3ReceiverService.receive(Pop3ReceiverService.java:28)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+2026-09-07 14:04:01.371 [scheduling-1] ERROR c.s.k.m.receiver.Pop3ReceiverService - POP3 receive error
+jakarta.mail.AuthenticationFailedException: µÇÂ¼Ê§°Ü£¡ÓÊÏäÕËºÅ/ÃÜÂë²»ÕýÈ·»òÃÜÂëÒÑÊ§Ð§»òµÇÂ¼IP±»ÏÞ£¬ÇëÁªÏµ¹óË¾ÓÊÏä¹ÜÀíÔ±£¡
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:193)
+	at jakarta.mail.Service.connect(Service.java:342)
+	at com.shtel.kczf.mail.receiver.Pop3SessionManager.connect(Pop3SessionManager.java:29)
+	at com.shtel.kczf.mail.receiver.Pop3ReceiverService.receive(Pop3ReceiverService.java:28)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+2026-09-07 14:05:02.768 [scheduling-1] ERROR c.s.k.m.receiver.Pop3ReceiverService - POP3 receive error
+jakarta.mail.AuthenticationFailedException: µÇÂ¼Ê§°Ü£¡ÓÊÏäÕËºÅ/ÃÜÂë²»ÕýÈ·»òÃÜÂëÒÑÊ§Ð§»òµÇÂ¼IP±»ÏÞ£¬ÇëÁªÏµ¹óË¾ÓÊÏä¹ÜÀíÔ±£¡
+	at com.sun.mail.pop3.POP3Store.protocolConnect(POP3Store.java:193)
+	at jakarta.mail.Service.connect(Service.java:342)
+	at com.shtel.kczf.mail.receiver.Pop3SessionManager.connect(Pop3SessionManager.java:29)
+	at com.shtel.kczf.mail.receiver.Pop3ReceiverService.receive(Pop3ReceiverService.java:28)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)

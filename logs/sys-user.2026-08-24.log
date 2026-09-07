@@ -1,0 +1,13 @@
+11:33:37.235 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+11:34:10.629 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+11:40:51.834 [schedule-pool-2] INFO  sys-user - [run,58] - [127.0.0.1]内网IP[admin][Error][验证码已失效]
+11:40:57.192 [schedule-pool-4] INFO  sys-user - [run,58] - [127.0.0.1]内网IP[admin][Success][登录成功]
+12:49:55.535 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+14:43:25.342 [schedule-pool-1] INFO  sys-user - [run,58] - [127.0.0.1]内网IP[admin][Logout][退出成功]
+14:43:33.457 [schedule-pool-3] INFO  sys-user - [run,58] - [127.0.0.1]内网IP[admin][Error][验证码错误]
+14:43:37.515 [schedule-pool-5] INFO  sys-user - [run,58] - [127.0.0.1]内网IP[admin][Success][登录成功]
+14:53:38.891 [schedule-pool-7] INFO  sys-user - [run,58] - [127.0.0.1]内网IP[admin][Logout][退出成功]
+14:53:44.488 [schedule-pool-9] INFO  sys-user - [run,58] - [127.0.0.1]内网IP[madaosen][Success][登录成功]
+14:56:20.787 [Thread-9] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+15:02:04.573 [Thread-14] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====
+16:10:29.836 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,31] - ====关闭后台任务任务线程池====

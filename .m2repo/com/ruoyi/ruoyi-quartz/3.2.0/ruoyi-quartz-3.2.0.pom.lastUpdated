@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 24 10:47:43 CST 2026
+http\://maven.aliyun.com/nexus/content/repositories/central/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1787539663482
+https\://artifacts.alfresco.com/nexus/content/repositories/activiti-releases/.error=
+https\://artifacts.alfresco.com/nexus/content/repositories/activiti-releases/.lastUpdated=1787539663202
+https\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1787539663369

@@ -1,0 +1,7 @@
+2026-09-07 14:01:55.520 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration - Searching for mappers annotated with @Mapper
+2026-09-07 14:01:55.521 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration - Using auto-configuration base package 'com.shtel.kczf.mail'
+2026-09-07 14:01:56.797 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration - Not found configuration for registering mapper bean using @MapperScan, MapperFactoryBean and MapperScannerConfigurer.
+2026-09-07 14:01:56.874 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean - Property 'mapperLocations' was not specified.
+2026-09-07 14:01:57.085 [main] DEBUG c.b.m.core.toolkit.Sequence - Get /192.168.245.1 network interface 
+2026-09-07 14:01:57.098 [main] DEBUG c.b.m.core.toolkit.Sequence - Get network interface info: name:eth6 (VMware Virtual Ethernet Adapter for VMnet1)
+2026-09-07 14:01:57.104 [main] DEBUG c.b.m.core.toolkit.Sequence - Initialization Sequence datacenterId:4 workerId:2
